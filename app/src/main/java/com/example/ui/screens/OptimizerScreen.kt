@@ -108,14 +108,14 @@ fun OptimizerScreen(
         ) {
           Image(
             painter = painterResource(id = R.drawable.ic_game_mascot),
-            contentDescription = "Avatar VIP Penhayzz",
+            contentDescription = "Avatar VIP Zavrangoffz",
             modifier = Modifier.size(40.dp).clip(CircleShape)
           )
         }
 
         Column {
           Text(
-            text = "Penhayzz",
+            text = "Zavrangoffz",
             color = TextPrimary,
             fontSize = 17.sp,
             fontWeight = FontWeight.Bold

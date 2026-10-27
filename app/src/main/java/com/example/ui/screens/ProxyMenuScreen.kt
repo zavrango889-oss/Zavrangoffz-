@@ -98,13 +98,13 @@ fun ProxyMenuScreen(
 
         Row(verticalAlignment = Alignment.CenterVertically) {
           Text(
-            text = "PROXY ",
+            text = "ZAVRANGOFFZ ",
             color = Color.White,
             fontSize = 17.sp,
             fontWeight = FontWeight.Black
           )
           Text(
-            text = "MENU",
+            text = "PROXY",
             color = NeonRed,
             fontSize = 17.sp,
             fontWeight = FontWeight.Black
@@ -286,7 +286,7 @@ fun ProxyMenuScreen(
       verticalArrangement = Arrangement.spacedBy(6.dp)
     ) {
       Text(
-        text = "CONSOLE DE STATUS PROXY",
+        text = "CONSOLE DE STATUS ZAVRANGOFFZ",
         color = TextMuted,
         fontSize = 10.sp,
         fontWeight = FontWeight.Bold

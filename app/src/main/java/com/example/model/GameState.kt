@@ -58,6 +58,7 @@ data class DevicePreset(
 )
 
 val CommonDevicePresets = listOf(
+  DevicePreset("Samsung Galaxy M15 5G", 411, 90),
   DevicePreset("Xiaomi Poco X6 / F5", 480, 120),
   DevicePreset("Samsung Galaxy S23 / S24", 411, 120),
   DevicePreset("Samsung Galaxy A54 / A55", 411, 120),

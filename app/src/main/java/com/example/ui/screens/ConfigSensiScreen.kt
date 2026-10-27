@@ -110,7 +110,7 @@ fun ConfigSensiScreen(
   ) {
     // Header Banner matching Screenshot 3
     Text(
-      text = "START YOUR ALL IN SENSI",
+      text = "START YOUR ALL IN SENSI • ZAVRANGOFFZ",
       color = Color(0xFFFF8599),
       fontSize = 17.sp,
       fontWeight = FontWeight.Black,

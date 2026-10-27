@@ -169,7 +169,7 @@ class MainViewModel(application: Application) : AndroidViewModel(application) {
   fun copySensitivityToClipboard() {
     val cfg = _sensitivityConfig.value
     val text = """
-      🎯 SENSI PENHAYZZ VIP OTIMIZADA:
+      🎯 SENSI ZAVRANGOFFZ VIP OTIMIZADA:
       📱 Dispositivo: ${cfg.selectedDevice}
       📐 DPI: ${cfg.screenDpi} | Taxa: ${cfg.refreshRateHz}Hz | FOV: ${cfg.fovAngle}°
       🔫 Perfil: ${cfg.selectedWeapon.title}
