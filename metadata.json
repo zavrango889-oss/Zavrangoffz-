@@ -1,0 +1,6 @@
+{
+  "name": "PENHAYZZ Sensi",
+  "description": "Gaming assistant with interactive floating crosshair overlay, Free Fire sensitivity and DPI calculator, and device booster.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
